@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54950855059",
+    "project_id": "fir-rn-fce6e",
+    "storage_bucket": "fir-rn-fce6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54950855059:android:c92d225b3478fa2acce866",
+        "android_client_info": {
+          "package_name": "com.firerstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54950855059-8p4n3omcdgvsmkgi5lm6t4243a3im0gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZVTq3GfuE5k6ip_e-Whkn5Hg2HxBE4MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54950855059-8p4n3omcdgvsmkgi5lm6t4243a3im0gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
